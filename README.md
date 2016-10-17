@@ -1,1 +1,7 @@
-# An-lise-e-Modelagem-de-Neg-cios
+# Análise-e-Modelagem-de-Negócios
+
+Alunos: 
+
+Aparecida Torres
+Marina Bueno
+Weslei Dias
