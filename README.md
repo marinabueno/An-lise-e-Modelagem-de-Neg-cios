@@ -2,6 +2,6 @@
 
 Alunos: 
 
-Aparecida Torres
-Marina Bueno
+Aparecida Torres <br>
+Marina Bueno <br>
 Weslei Dias
